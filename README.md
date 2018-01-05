@@ -1,2 +1,2 @@
 # OC_CutUIScreen
-截屏
+截长屏
